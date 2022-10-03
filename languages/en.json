@@ -1,0 +1,56 @@
+{
+    "profile": {
+        "rol": "Hi, I'm <span>Alexis De Los Santos.</span> A Software Engineer.",
+        "description": " Software engineer 👨‍💻, with more than 2 years of experience as Front-End Developer in the development of web applications 💻📱, focused on the best solutions to customer needs and creating clean and reusable code, among the technologies that I master are Javascript, HTML / CSS, React, Node JS, Bootstrap y SQL. I am self-taught ✍️, very willing to learn and proactive.",
+        "button": "Get Resume"
+    },
+    "about": {
+        "about-me": "About <span>me</span>",
+        "title-description": "Why Choose Me?",
+        "description": "Software engineer, with more than 2 years of experience as Front-End Developer in the development of web applications, focused on the best solutions to customer needs and creating clean and reusable code, among the technologies that I master are Javascript, HTML / CSS, React, Node JS, Bootstrap y SQL. I am self-taught, very willing to learn and proactive. Technology and books lover. <br /> <br /> Currently finishing a master in Artificial Intelligence. I have done projects with Python, R, SQL, Excel, Power BI, Machine Learning and Deep Learning. I have worked with libraries like Pandas, Numpy, Matplotlib and Keras. Strong knowledge of mathematics.",
+        "button": "Get Resume"
+    },
+    "skills": {
+        "skills": "Skills",
+        "year-skills": "years of experience"
+    },
+    "experience": {
+        "title-experience": "Experience",
+        "role-experience-1": "Frontend Web Developer",
+        "role-experience-2": "Frontend Web Developer",
+        "role-experience-3": "Frontend Web Developer",
+        "role-experience-4": "Software Developer",
+        "work-done-1": "Ecommerce and Websites:",
+        "work-done-2": "Complaints and Suggestions Tracking System:",
+        "work-done-3": "Election voting simulation application:",
+        "work-done-4": "Equipment lubrication maintenance system:",
+        "description-1": "<span>Online stores for businesses, clothing stores, cosmetic stores, department stores, etc...<br> -Reduced dissatisfaction with the usability of the website by 30%.<br> -25% increase of the shopping cart with cross-selling.<br> -Improve the shopping experience by 35%.</span>",
+        "description-2": "<span>It is a system that allows knowledge of different complaints and requests from interested groups and permits monitoring and management of solutions for users⁣. <br> -Development of the entire software life cycle.<br> -Reduced the cost by 25% by reducing congestion and print and telephone communications.</span>",
+        "description-3": "<span>Simulator web application of automated electoral votes: <br> -Development of the entire software life cycle.<br> -Increased candidate recognition by 70%.</span>",
+        "description-4": " <span>Desktop system designed to keep track of maintenance plans for industrial machinery.<br> -Development of the entire software life cycle and Project Leader.<br> -Reduced maintenance costs by up to 40% and inventory level by 60%.<br> -Achieved a 35% increase in equipment life.</span>"
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "description": "Here I present some of my work.",
+        "source": "project source"
+    },
+    "blogs": {
+        "blog": "Blogs",
+        "blog-title-1": "How to increase your sales with a mobile application?",
+        "blog-description-1": "Today users spend much of their time on their Smartphones looking for products and services. However, more is still being bought through the computer.",
+        "blog-title-2": "Why is ecommerce so important for my business in times of crisis?",
+        "blog-description-2": "Regardless of the size of your business or how old you are, whether you are a new business or one that has been in business for years.",
+        "blog-title-3": "Why do I need a website for my business?",
+        "blog-description-3": "You may be wondering why I need a site for my business, how will that help me? What value will it bring to my business? If my business is already successful, why do I need a website now?..."
+    },
+    "contact-me": {
+        "contact": "Contact <span>Me</span>",
+        "title": "Contact me here",
+        "description": "Do you have a project or idea that you want to develop? Do you have any doubts? Tell me, I'll give you solutions. Go ahead and write me.",
+        "name": "YOUR NAME",
+        "button": "Get Resume",
+        "email": "",
+        "subject": "",
+        "message": ""
+    }
+}

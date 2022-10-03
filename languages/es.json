@@ -1,0 +1,55 @@
+{
+    "profile": {
+        "rol": "Hola, soy <span>Alexis De Los Santos.</span> Ingeniero de Software.",
+        "description": "Ingeniero de software 👨‍💻, con más de 2 años de experiencia como Front-End Developer en el desarrollo de aplicaciones web 💻📱, enfocado en las mejores soluciones a las necesidades del cliente y a crear código limpio y reutilizable, entre las tecnologías que domino están Javascript, HTML / CSS, React, Node JS, Bootstrap y SQL. Soy autodidacta ✍️, muy dispuesto aprender y proactivo.",
+        "button": "Descargar CV"
+    },
+    "about": {
+        "about-me": "SOBRE <span>MI</span>",
+        "title-description": "¿Por qué elegirme?",
+        "description": "Ingeniero de software , con más de 2 años de experiencia como Front-End Developer en el desarrollo de aplicaciones web , enfocado en las mejores soluciones a las necesidades del cliente y a crear código limpio y reutilizable, entre las tecnologías que domino están Javascript, HTML / CSS, React, Node JS, Bootstrap y SQL. Soy autodidacta , muy dispuesto aprender y proactivo. Amante de la tecnología y de los libros. <br /> <br /> Finalizando actualmente un master en Inteligencia Artificial. He realizado proyectos con Python, R, SQL, Excel, Power BI, Machine Learning y Deep Learning. He trabajado con librerías como Pandas, Numpy, Matplotlib y Keras. Fuertes conocimientos de matemática.",
+        "button": "Descargar CV"
+    },
+    "skills": {
+        "skills": "Habilidades",
+        "year-skills": "años de experiencia"
+    },
+    "experience": {
+        "title-experience": "Experiencia",
+        "role-experience-1": "Desarrollador Web Frontend",
+        "role-experience-2": "Desarrollador Web Frontend",
+        "role-experience-3": "Desarrollador Web Frontend",
+        "role-experience-4": "Desarrollador de Software",
+        "work-done-1": "Ecommerce y Sitios Web:",
+        "work-done-2": "Sistema de Seguimiento a Quejas y Sugerencias:",
+        "work-done-3": "Aplicación de simulación de votación electoral:",
+        "work-done-4": "Sistema de Mantenimiento a lubricación de equipos:",
+        "description-1": "<span>Tiendas online para empresas, tiendas de ropa, tiendas de cosmética, multitiendas, etc…<br> -Reduje en un 30% la insatisfacción por la usabilidad del sitio web.<br> -Aumento del 25% del carrito de compras con las ventas cruzadas.<br> -Mejore la experiencia de compra en un 35%.</span>",
+        "description-2": "<span>Es un sistema que permite conocer las distintas quejas y peticiones de los grupos de interés con el objetivo de dar seguimiento y gestionar las soluciones de los usuarios.<br> -Desarrollo de todo el ciclo de vida del software.<br> -Disminuí en un 25% el coste al reducir congestiones y comunicaciones impresas y telefónicas.</span>",
+        "description-3": "<span>Aplicación web simuladora de las votaciones electorales automatizadas. <br> -Desarrollo de todo el ciclo de vida del software.<br> -Aumente en un 70% el reconocimiento de los candidatos.</span>",
+        "description-4": "<span>Sistema de escritorio diseñado para llevar el control de los planes de mantenimiento de maquinarias.<br> -Desarrollo de todo el ciclo de vida del software y líder del proyecto.<br> -Reduje los costos de mantenimiento hasta en un 40% y un 60% los niveles de inventario.<br> -Logre un aumento de un 35% de la vida útil de los equipos.</span>"
+    },
+    "portfolio": {
+        "title": "Portafolio",
+        "description": "Aquí les presento algunos de mis trabajos.",
+        "source": "fuente del proyecto"
+    },
+    "blogs": {
+        "blog": "Blogs",
+        "blog-title-1": "¿Cómo aumentar tus ventas con una aplicación móvil?",
+        "blog-description-1": "Hoy en días los usuarios pasan gran parte de su tiempo en sus Smartphone en busca de productos y servicios. Sin embargo todavía se sigue comprando más a través de la computadora.",
+        "blog-title-2": "¿Por qué es tan importante un ecommerce para mi negocio en epoca de crisis?",
+        "blog-description-2": "Sin importar el tamaño de su empresa o el tiempo que tenga, ya sea una nueva empresa o una que tenga años en el mercado.",
+        "blog-title-3": "¿Por qué necesito un sitio web para mi negocio?",
+        "blog-description-3": "Puede que se pregunte para que necesito un sitio para mi negocio, ¿en qué me ayudara eso? ¿Qué valor le aportara a mi negocio? ¿Si mi negocio ya tiene éxito, porque ahora necesito un sitio web?..."
+    },
+    "contact-me": {
+        "contact": "Contáctame",
+        "title": "Contáctame aquí",
+        "description": "¿Tienes un proyecto o idea que quieres desarrollar? ¿Tienes alguna duda? Dime, Te daré soluciones. Adelante, escríbeme.",
+        "name": "TU NOMBRE",
+        "email": "",
+        "subject": "",
+        "message": ""
+    }
+}
